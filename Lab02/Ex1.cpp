@@ -10,14 +10,14 @@ using namespace std;
 #define pb push_back
 #define fi first
 #define se second
-//*
+/*
 #ifndef ONLINE_JUDGE
 ifstream f1(task"inp");
 ofstream f2(task"out");
 #define cin f1
 #define cout f2
 #endif
-//*/
+*/
 
 typedef union 
 {
